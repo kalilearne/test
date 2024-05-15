@@ -1,5 +1,6 @@
 [
     { "rank": 1, "player": "丞C", "score": 100 },
     { "rank": 2, "player": "🐏", "score": 95 },
-    { "rank": 3, "player": "苑小洛", "score": 90 }
+    { "rank": 3, "player": "苑小洛", "score": 90 },
+{ "rank": 4, "player": "公休日", "score": 90 }
 ]
