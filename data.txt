@@ -1,0 +1,5 @@
+[
+    { "rank": 1, "player": "玩家A", "score": 100 },
+    { "rank": 2, "player": "玩家B", "score": 90 },
+    { "rank": 3, "player": "玩家C", "score": 80 }
+]
