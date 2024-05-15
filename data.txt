@@ -1,5 +1,5 @@
 [
-    { "rank": 1, "player": "玩家A", "score": 100 },
-    { "rank": 2, "player": "玩家B", "score": 90 },
-    { "rank": 3, "player": "玩家C", "score": 80 }
+    { "rank": 1, "player": "苑小洛", "score": 100 },
+    { "rank": 2, "player": "🐏", "score": 90 },
+    { "rank": 3, "player": "丞C.", "score": 80 }
 ]
