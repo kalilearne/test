@@ -27,3 +27,4 @@ function updateLeaderboard(data) {
 loadData().then(data => {
     updateLeaderboard(data);
 });
+window.scrollTo(0, 200);
