@@ -1,5 +1,4 @@
 [
-     { "rank": 'rank', "player": "name", "score": 'score' },
     { "rank": 1, "player": "苑小洛", "score": 100 },
     { "rank": 2, "player": "丞c.", "score": 95 },
     { "rank": 3, "player": "🐏", "score": 90 },
