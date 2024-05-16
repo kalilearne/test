@@ -1,7 +1,7 @@
 [
     { "rank": 1, "player": "苑洛铭", "score": 100 },
     { "rank": 2, "player": "席杨", "score": 100 },
-    { "rank": 3, "player": "付子鸣", "score": 100}，
+    { "rank": 3, "player": "付子鸣", "score": 100},
 { "rank": 4, "player": "张兆洋", "score": 100 },
 { "rank": 5, "player": "顾翔瑞", "score": 100 },
 { "rank": 6, "player": "王映娇", "score": 100 },
@@ -10,6 +10,18 @@
 { "rank": 9, "player": "刘一丞", "score": 100 },
 { "rank": 10, "player": "陈翔宇", "score": 100 },
 { "rank": 11, "player": "曹祐铭", "score": 100 },
-{ "rank": 12, "player": "王梦萱", "score": 100 }
-
+{ "rank": 12, "player": "王梦萱", "score": 100 },
+{ "rank": 13, "player": "周李青青", "score": 100 },
+{ "rank": 14, "player": "姚子慧", "score": 100 },
+{ "rank": 15, "player": "李聪", "score": 100 },
+{ "rank": 16, "player": "柴晨曦", "score": 100 },
+{ "rank": 17, "player": "汤智超", "score": 100 },
+{ "rank": 18, "player": "苏心怡", "score": 100 },
+{ "rank": 19, "player": "赵月琪", "score": 100 },
+{ "rank": 20, "player": "吴汶静", "score": 100 },
+{ "rank": 21, "player": "刘一宸", "score": 100 },
+{ "rank": 22, "player": "刘涛伟", "score": 100 },
+{ "rank": 23, "player": "伍星宇", "score": 100 },
+{ "rank": 24, "player": "李硕", "score": 100 },
+{ "rank": 25, "player": "张嘉桐", "score": 100 }
 ]
