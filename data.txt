@@ -23,5 +23,6 @@
 { "rank": 22, "player": "刘涛伟", "score": 100 },
 { "rank": 23, "player": "伍星宇", "score": 100 },
 { "rank": 24, "player": "李硕", "score": 100 },
-{ "rank": 25, "player": "张嘉桐", "score": 100 }
+{ "rank": 25, "player": "张嘉桐", "score": 100 },
+{ "rank": 26, "player": "李晓杰", "score": 100 }
 ]
